@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+
+body {
+  background-color: black;
+  color: purple;
+  font-family: "Passion One";
+  margin-top: 25px;
+}
+
+.profilePic {
+  display: block;
+  margin: auto;
+  width: 25%;
+  margin-bottom: 15px;
+}
+
+.text-container {
+  margin: 15px 15px;
+  padding: 20px 55px 0 55px;
+  border: double 2px purple;
+}
+
+.quote {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
